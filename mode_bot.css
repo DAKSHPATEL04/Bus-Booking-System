@@ -1,0 +1,22 @@
+ /* Apply styles to the chatbot iframe to make it float */
+        iframe#chatbot {
+            position: fixed;
+            bottom: 20px;
+            right: 20px;
+            border: none;
+            width: 350px; /* Adjust the width as needed */
+            height: 600px; /* Adjust the height as needed */
+            z-index: 999; /* Ensure the chatbot appears above other content */
+        }
+       /* Light Mode Styles */
+body {
+    background-color: #ffffff;
+    color: #000000;
+    transition: background-color 0.3s, color 0.3s;
+}
+
+/* Dark Mode Styles */
+body.dark-mode {
+    background-color: #000000;
+    color: #ffffff;
+}

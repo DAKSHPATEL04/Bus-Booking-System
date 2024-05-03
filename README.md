@@ -42,7 +42,7 @@ Empower administrators with our robust admin site for managing bus operations. E
 
 Click This Link:
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
-bus-booking-system.infinityfreeapp.com
+https://bus-booking-system.infinityfreeapp.com
 
 
 

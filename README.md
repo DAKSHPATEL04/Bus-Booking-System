@@ -40,6 +40,11 @@ Admin:
 ![admin](https://github.com/DAKSHPATEL04/Bus-Booking-System/assets/160720470/59f1ef2b-eaf9-4502-aebc-8ba4b518658d)
 Empower administrators with our robust admin site for managing bus operations. Efficiently oversee buses, routes, schedules, and bookings in one centralized dashboard. Developed with PHP and MySQL, this admin site offers comprehensive control and insightful reporting capabilities. Streamline administrative tasks with intuitive interfaces and secure access controls. Elevate your bus management operations with our powerful admin solution.
 
+Click This Link:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+bus-booking-system.infinityfreeapp.com
+
+
 
 
 

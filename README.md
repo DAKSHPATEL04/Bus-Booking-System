@@ -32,7 +32,8 @@ Seat Booking:
 ![seat](https://github.com/DAKSHPATEL04/Bus-Booking-System/assets/160720470/92802710-1926-4e7c-b2d0-dadff570a020)
 Easily reserve bus seats online with our intuitive seat booking page. Effortlessly select preferred seats and complete bookings in seconds. Crafted with PHP and HTML/CSS, this page ensures a seamless user experience. Enjoy interactive seat maps and secure transaction processing for hassle-free reservations. Join us in simplifying bus ticket booking with our efficient seat booking solution.
 
-![Screenshot_4-5-2024_03916_localhost](https://github.com/DAKSHPATEL04/Bus-Booking-System/assets/160720470/e9994e42-2637-44f9-90da-e704a8fbaa2a)
+![Ticket](https://github.com/DAKSHPATEL04/Bus-Booking-System/assets/160720470/a624a590-bb47-4bf2-9cc0-f8c41d3e07d2)
+
 
 Admin:
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
